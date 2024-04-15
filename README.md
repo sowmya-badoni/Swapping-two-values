@@ -38,7 +38,8 @@ vijay_ball =input("")
 switch_and_swap(surya_ball, vijay_ball)
 ```
 ## OUTPUT:
-![image](https://github.com/sowmya-badoni/Swapping-two-values/assets/152136324/e357f782-e917-4726-8991-8acb0e7a96ab)
+![image](https://github.com/sowmya-badoni/Swapping-two-values/assets/152136324/94e2c571-e673-46bc-b905-2362c96287cf)
+
 
 
 ## RESULT:
